@@ -6,3 +6,5 @@ build
 
 # Ignore windows config files
 .settings 
+.classpath
+.project
